@@ -7,6 +7,10 @@ namespace MyApp// Note: actual namespace depends on the project name.
          static void Main(string[] args)
         {
             Console.WriteLine("hello word ");
+            Console.WriteLine("hello word ");
+            Console.WriteLine("hello word ");
+            Console.WriteLine("hello word ");
+            Console.WriteLine("hello word ");
         }
     }
 }
