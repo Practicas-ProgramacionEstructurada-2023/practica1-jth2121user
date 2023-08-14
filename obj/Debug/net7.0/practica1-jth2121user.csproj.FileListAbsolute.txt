@@ -1,0 +1,14 @@
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\bin\Debug\net7.0\practica1-jth2121user.exe
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\bin\Debug\net7.0\practica1-jth2121user.deps.json
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\bin\Debug\net7.0\practica1-jth2121user.runtimeconfig.json
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\bin\Debug\net7.0\practica1-jth2121user.dll
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\bin\Debug\net7.0\practica1-jth2121user.pdb
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\obj\Debug\net7.0\practica1-jth2121user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\obj\Debug\net7.0\practica1-jth2121user.AssemblyInfoInputs.cache
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\obj\Debug\net7.0\practica1-jth2121user.AssemblyInfo.cs
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\obj\Debug\net7.0\practica1-jth2121user.csproj.CoreCompileInputs.cache
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\obj\Debug\net7.0\practica1-jth2121user.dll
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\obj\Debug\net7.0\refint\practica1-jth2121user.dll
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\obj\Debug\net7.0\practica1-jth2121user.pdb
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\obj\Debug\net7.0\practica1-jth2121user.genruntimeconfig.cache
+C:\Users\MARILU\Desktop\5 materias, II ciclo\Programacion de Computadoras\Practicas\Repositorio_practicas\practica1-jth2121user\obj\Debug\net7.0\ref\practica1-jth2121user.dll
